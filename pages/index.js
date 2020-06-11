@@ -76,23 +76,29 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <meta charSet="utf-8" />
         <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no"
+          name="keywords"
+          content="THE OASIS protocol blockchain NFT crypto asset"
         />
         <meta
           name="description"
-          content="Musli is a beautiful Bootstrap 4 template for multipurpose landing pages."
+          content="THE OASIS protocl. Bring you to the ecosystem of NFT asset"
         />
-
+        <meta name="author" content="byterum" />
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
+        <meta name="robots" content="index,follow" />
+        <meta name="google" content="index,follow" />
+        <meta name="googlebot" content="index,follow" />
+        <meta name="verify" content="index,follow" />
         {/* <!--Inter UI font--> */}
         <link href="https://rsms.me/inter/inter-ui.css" rel="stylesheet" />
-
         {/* <!--vendors styles--> */}
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
         />
-
         {/* <!-- Bootstrap CSS / Color Scheme --> */}
         <link rel="stylesheet" href="css/default.css" id="theme-color" />
       </Head>
@@ -145,14 +151,22 @@ export default function Home() {
               </ul>
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a
+                    className="nav-link"
+                    href="https://github.com/oasis-protocol"
+                    target="_blank"
+                  >
                     <i className="fa fa-github" aria-hidden="true" />
                   </a>
                 </li>
               </ul>
               <form className="form-inline">
-                <a className="btn btn-primary" href="#">
-                  开始接入
+                <a
+                  className="btn btn-primary"
+                  target="_blank"
+                  href="https://docs.theoasis.io"
+                >
+                  接入文档
                 </a>
               </form>
             </div>
@@ -166,10 +180,10 @@ export default function Home() {
           <div className="row vh-md-100">
             <div className="col-md-5 ml-auto my-auto text-center text-md-left">
               <span className="text- text-muted">
-                快加入到虚拟资产互通的应用生态
+                低门槛接入虚拟资产互通的应用生态
               </span>
               <h1 className="display-4 mt-2 mb-5">
-                THE OASIS - 虚拟资产的跨应用互通
+                THE OASIS - NFT资产跨应用互通
               </h1>
               <a
                 href="#about"
@@ -209,10 +223,10 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="row mt-5 mb-7">
-                  <div className="col-md-5 mx-auto text-right">
+                  {/* <div className="col-md-5 mx-auto text-right">
                     <img src="img/ethereum.png" width="70" />
-                  </div>
-                  <div className="col-md-5 mx-auto text-left">
+                  </div> */}
+                  <div className="col-md-5 mx-auto text-center">
                     <img src="img/eosio.png" width="120" />
                   </div>
                 </div>
@@ -234,10 +248,10 @@ export default function Home() {
                       <i className="fa fa-file-text-o" />
                     </div>
                   </div>
-                  <h5>NFT资产标准</h5>
+                  <h5>通用资产标准</h5>
                   <p className="text-muted">
-                    THE
-                    OASIS制定了具备可扩展性良好的NFT标准接口，并提供完善的合约模板
+                    THE OASIS制定了具备可扩展性良好的<strong>FT/NFT</strong>
+                    标准接口，并提供完善的合约模板
                   </p>
                 </div>
                 <div className="col-md-6 box">
@@ -270,11 +284,11 @@ export default function Home() {
                     </div>
                   </div>
                   <h5>密码学安全</h5>
-                  <p className="text-muted">
-                    <li>利用数字签名验证资产来源，防止篡改资产</li>
-                    <li>中转合约记录资产最终位置，防止伪造资产</li>
-                    <li>发行合约地址记入资产ID，构筑最后一道防线</li>
-                  </p>
+                  <ul className="text-muted list-unstyled">
+                    <li>数字签名保障资产完整性，防止篡改资产</li>
+                    <li>中转合约记录资产位置，防止伪造资产</li>
+                    <li>全生命周期追踪</li>
+                  </ul>
                 </div>
               </div>
             </div>
@@ -401,9 +415,11 @@ export default function Home() {
                       好的灵感总是在交流的过程中产生
                     </span>
                   </div>
-                  <button className="btn btn-secondary ml-md-auto d-inline-flex flex-row align-items-center">
-                    加入社区
-                  </button>
+                  <a>
+                    <button className="btn btn-secondary ml-md-auto d-inline-flex flex-row align-items-center">
+                      加入社区
+                    </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -416,9 +432,14 @@ export default function Home() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 my-md-auto text-center">
-              <h1 className="display text-white">希望更深入的合作</h1>
+              <h1 className="display text-white">申请测试</h1>
               <p className="text-muted">请通过邮件与我们取得联系</p>
-              <p className="lead text-light">the-oasis@byterum.com</p>
+              <a
+                className="lead text-light"
+                href="mailto:the-oasis@byterum.com"
+              >
+                the-oasis@byterum.com
+              </a>
             </div>
           </div>
         </div>
@@ -482,7 +503,9 @@ export default function Home() {
               <h6>帮助</h6>
               <ul className="list-unstyled">
                 <li>
-                  <a href="#">Github</a>
+                  <a href="https://github.com/oasis-protocol" target="_blank">
+                    Github
+                  </a>
                 </li>
                 <li>
                   <a href="#">更新日志</a>
