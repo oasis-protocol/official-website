@@ -415,10 +415,8 @@ export default function Home() {
                       好的灵感总是在交流的过程中产生
                     </span>
                   </div>
-                  <a>
-                    <button className="btn btn-secondary ml-md-auto d-inline-flex flex-row align-items-center">
-                      加入社区
-                    </button>
+                  <a className="ml-md-auto d-inline-flex flex-row align-items-center">
+                    <button className="btn btn-secondary">加入社区</button>
                   </a>
                 </div>
               </div>
