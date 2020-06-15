@@ -102,22 +102,18 @@ export default function Home() {
         {/* <!-- Bootstrap CSS / Color Scheme --> */}
         <link rel="stylesheet" href="css/default.css" id="theme-color" />
 
-        <script type="text/javascript">
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=UA-169399144-1"
+        ></script>
+        <script>
           {`
-      var _vds = _vds || [];
-      window._vds = _vds;
-      (function(){
-        _vds.push(['setAccountId', '8178f0281a10dd9b']);
-        (function() {
-          var vds = document.createElement('script');
-          vds.type='text/javascript';
-          vds.async = true;
-          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'assets.giocdn.com/vds.js';
-          var s = document.getElementsByTagName('script')[0];
-          s.parentNode.insertBefore(vds, s);
-        })();
-      })();
-      `}
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-169399144-1');
+  `}
         </script>
       </Head>
 
