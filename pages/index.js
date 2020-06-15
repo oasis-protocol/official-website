@@ -101,6 +101,24 @@ export default function Home() {
         />
         {/* <!-- Bootstrap CSS / Color Scheme --> */}
         <link rel="stylesheet" href="css/default.css" id="theme-color" />
+
+        <script type="text/javascript">
+          {`
+      var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', '8178f0281a10dd9b']);
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'assets.giocdn.com/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+      `}
+        </script>
       </Head>
 
       {/* <!--navigation--> */}
@@ -153,7 +171,7 @@ export default function Home() {
                 <li className="nav-item">
                   <a
                     className="nav-link"
-                    href="https://github.com/oasis-protocol"
+                    href="https://github.com/the-oasis-protocol"
                     target="_blank"
                   >
                     <i className="fa fa-github" aria-hidden="true" />
@@ -469,7 +487,10 @@ export default function Home() {
                   </a>
                 </li>
                 <li className="list-inline-item">
-                  <a href="">
+                  <a
+                    href="https://github.com/the-oasis-protocol"
+                    target="_blank"
+                  >
                     <i className="fa fa-github"></i>
                   </a>
                 </li>
@@ -479,10 +500,13 @@ export default function Home() {
               <h6>相关资源</h6>
               <ul className="list-unstyled">
                 <li>
-                  <a href="#">ERC1155</a>
+                  <a href="https://pandahero.io">竹录隐侠</a>
                 </li>
                 <li>
-                  <a href="#">Etherfans</a>
+                  <a href="https://eos.io">EOSIO</a>
+                </li>
+                <li>
+                  <a href="https://dapp.review">DappReview</a>
                 </li>
               </ul>
             </div>
@@ -501,7 +525,10 @@ export default function Home() {
               <h6>帮助</h6>
               <ul className="list-unstyled">
                 <li>
-                  <a href="https://github.com/oasis-protocol" target="_blank">
+                  <a
+                    href="https://github.com/the-oasis-protocol"
+                    target="_blank"
+                  >
                     Github
                   </a>
                 </li>
