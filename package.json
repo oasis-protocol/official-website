@@ -10,10 +10,13 @@
     "deploy": "next build && next export && cp CNAME out/CNAME && cp .nojekyll out/.nojekyll && gh-pages -d out -t true"
   },
   "dependencies": {
+    "bootstrap": "^4.5.0",
+    "i18next": "^19.5.4",
     "next": "9.3.5",
     "react": "16.13.1",
+    "react-bootstrap": "^1.1.1",
     "react-dom": "16.13.1",
-    "react-i18next": "^11.5.0",
+    "react-i18next": "^11.7.0",
     "react-particles-js": "^3.2.1"
   },
   "devDependencies": {
