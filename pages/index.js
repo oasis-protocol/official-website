@@ -609,8 +609,9 @@ export default function Home() {
           </div>
           <div className="row mt-5">
             <div className="col-12 text-muted text-center small-xl">
-              THE OASIS&copy;2019-{new Date().getFullYear()} 链坊科技 Byterum -
-              All Rights Reserved
+              THE OASIS&copy;2019-{new Date().getFullYear()}{" "}
+              <a href="https://byterum.com">链坊 Byterum</a> - All Rights
+              Reserved
             </div>
           </div>
         </div>
