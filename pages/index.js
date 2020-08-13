@@ -519,11 +519,8 @@ export default function Home() {
             <div className="col-md-12 my-md-auto text-center">
               <h1 className="display text-white">{t("申请测试")}</h1>
               <p className="text-muted">{t("请通过邮件与我们取得联系")}</p>
-              <a
-                className="lead text-light"
-                href="mailto:the-oasis@byterum.com"
-              >
-                the-oasis@byterum.com
+              <a className="lead text-light" href="mailto:contact@byterum.com">
+                contact@byterum.com
               </a>
             </div>
           </div>
