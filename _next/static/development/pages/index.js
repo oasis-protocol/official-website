@@ -12,9 +12,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/esm/defineProperty */ "./node_modules/@babel/runtime/helpers/esm/defineProperty.js");
 
 
-var _$$$$;
+var _$NFT$$;
 
-/* harmony default export */ __webpack_exports__["default"] = (_$$$$ = {
+/* harmony default export */ __webpack_exports__["default"] = (_$NFT$$ = {
+  绿洲协议: "THE OASIS",
+  跨合约NFT资产转移: "Protocol of Cross-Contract Non-fungible Token Transferring",
   特性: "Features",
   社区: "Community",
   合作: "Contact",
@@ -60,7 +62,7 @@ var _$$$$;
   byterumInfo: "Byterum is an innovative company focusing on the blockchain technology. We are committed to combining blockchain technology with products in the cultural and creative fields such as games, literature, and arts, promoting the token economy, reducing transaction friction costs, and protect users' assets.",
   相关资源: "Resources",
   竹录隐侠: "Panda Hero"
-}, Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__["default"])(_$$$$, "\u793E\u533A", "Community"), Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__["default"])(_$$$$, "\u5E2E\u52A9", "Help"), Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__["default"])(_$$$$, "\u62A5\u544ABug", "BUG Report"), _$$$$);
+}, Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__["default"])(_$NFT$$, "\u793E\u533A", "Community"), Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__["default"])(_$NFT$$, "\u5E2E\u52A9", "Help"), Object(_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__["default"])(_$NFT$$, "\u62A5\u544ABug", "BUG Report"), _$NFT$$);
 
 /***/ }),
 
@@ -34216,26 +34218,9 @@ function Home() {
       lineNumber: 116,
       columnNumber: 9
     }
-  }, "THE OASIS - Protocol of Cross-Contract Items Transferring"), __jsx("link", {
+  }, t("绿洲协议"), "- ", t("跨合约NFT资产转移")), __jsx("link", {
     rel: "icon",
     href: "/favicon.ico",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 117,
-      columnNumber: 9
-    }
-  }), __jsx("meta", {
-    charSet: "utf-8",
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 118,
-      columnNumber: 9
-    }
-  }), __jsx("meta", {
-    name: "keywords",
-    content: "THE OASIS protocol blockchain NFT crypto asset",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -34243,12 +34228,29 @@ function Home() {
       columnNumber: 9
     }
   }), __jsx("meta", {
-    name: "description",
-    content: "THE OASIS protocl. Bring you to the ecosystem of NFT asset",
+    charSet: "utf-8",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 123,
+      lineNumber: 120,
+      columnNumber: 9
+    }
+  }), __jsx("meta", {
+    name: "keywords",
+    content: "\u7EFF\u6D32\u534F\u8BAE \u8D44\u4EA7\u8F6C\u79FB THE OASIS protocol blockchain NFT crypto asset",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 121,
+      columnNumber: 9
+    }
+  }), __jsx("meta", {
+    name: "description",
+    content: "\u7EFF\u6D32\u534F\u8BAE\uFF0C\u5E26\u60A8\u8FDB\u5165NFT\u8D44\u4EA7\u751F\u6001 / THE OASIS protocl. Bring you to the ecosystem of NFT asset",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 125,
       columnNumber: 9
     }
   }), __jsx("meta", {
@@ -34257,7 +34259,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 127,
+      lineNumber: 129,
       columnNumber: 9
     }
   }), __jsx("meta", {
@@ -34266,7 +34268,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128,
+      lineNumber: 130,
       columnNumber: 9
     }
   }), __jsx("meta", {
@@ -34275,7 +34277,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 132,
+      lineNumber: 134,
       columnNumber: 9
     }
   }), __jsx("meta", {
@@ -34284,7 +34286,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 133,
+      lineNumber: 135,
       columnNumber: 9
     }
   }), __jsx("meta", {
@@ -34293,7 +34295,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 134,
+      lineNumber: 136,
       columnNumber: 9
     }
   }), __jsx("meta", {
@@ -34302,7 +34304,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 135,
+      lineNumber: 137,
       columnNumber: 9
     }
   }), __jsx("link", {
@@ -34311,7 +34313,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 137,
+      lineNumber: 139,
       columnNumber: 9
     }
   }), __jsx("link", {
@@ -34320,7 +34322,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 139,
+      lineNumber: 141,
       columnNumber: 9
     }
   }), __jsx("link", {
@@ -34330,7 +34332,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 144,
+      lineNumber: 146,
       columnNumber: 9
     }
   }), __jsx("script", {
@@ -34339,7 +34341,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 146,
+      lineNumber: 148,
       columnNumber: 9
     }
   }), __jsx("script", {
@@ -34348,14 +34350,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 150,
+      lineNumber: 152,
       columnNumber: 9
     }
   }), __jsx("script", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 154,
+      lineNumber: 156,
       columnNumber: 9
     }
   }, "\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-169399144-1');\n  ")), __jsx("div", {
@@ -34363,7 +34365,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 166,
+      lineNumber: 168,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -34371,7 +34373,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 167,
+      lineNumber: 169,
       columnNumber: 9
     }
   }, __jsx("nav", {
@@ -34379,7 +34381,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 168,
+      lineNumber: 170,
       columnNumber: 11
     }
   }, __jsx("a", {
@@ -34388,7 +34390,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 169,
+      lineNumber: 171,
       columnNumber: 13
     }
   }, "THE OASIS"), __jsx("button", {
@@ -34402,7 +34404,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 172,
+      lineNumber: 174,
       columnNumber: 13
     }
   }, __jsx("span", {
@@ -34410,7 +34412,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 181,
+      lineNumber: 183,
       columnNumber: 15
     }
   })), __jsx("div", {
@@ -34419,7 +34421,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 183,
+      lineNumber: 185,
       columnNumber: 13
     }
   }, __jsx("ul", {
@@ -34427,7 +34429,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 184,
+      lineNumber: 186,
       columnNumber: 15
     }
   }, __jsx("li", {
@@ -34435,7 +34437,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 185,
+      lineNumber: 187,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -34444,7 +34446,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 186,
+      lineNumber: 188,
       columnNumber: 19
     }
   }, t("特性"))), __jsx("li", {
@@ -34452,7 +34454,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 190,
+      lineNumber: 192,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -34461,7 +34463,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 191,
+      lineNumber: 193,
       columnNumber: 19
     }
   }, "Dapp")), __jsx("li", {
@@ -34469,7 +34471,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 195,
+      lineNumber: 197,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -34478,7 +34480,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 196,
+      lineNumber: 198,
       columnNumber: 19
     }
   }, "FAQ")), __jsx("li", {
@@ -34486,7 +34488,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 200,
+      lineNumber: 202,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -34495,7 +34497,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 201,
+      lineNumber: 203,
       columnNumber: 19
     }
   }, t("社区"))), __jsx("li", {
@@ -34503,7 +34505,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 205,
+      lineNumber: 207,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -34512,7 +34514,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 206,
+      lineNumber: 208,
       columnNumber: 19
     }
   }, t("合作")))), __jsx("ul", {
@@ -34520,7 +34522,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 211,
+      lineNumber: 213,
       columnNumber: 15
     }
   }, __jsx("li", {
@@ -34531,7 +34533,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 212,
+      lineNumber: 214,
       columnNumber: 17
     }
   }, __jsx(react_bootstrap__WEBPACK_IMPORTED_MODULE_6__["Form"].Control, {
@@ -34542,7 +34544,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 213,
+      lineNumber: 215,
       columnNumber: 19
     }
   }, __jsx("option", {
@@ -34550,7 +34552,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 219,
+      lineNumber: 221,
       columnNumber: 21
     }
   }, "\u4E2D\u6587"), __jsx("option", {
@@ -34558,7 +34560,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 220,
+      lineNumber: 222,
       columnNumber: 21
     }
   }, "English"))), __jsx("li", {
@@ -34566,7 +34568,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 223,
+      lineNumber: 225,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -34576,7 +34578,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 224,
+      lineNumber: 226,
       columnNumber: 19
     }
   }, __jsx("i", {
@@ -34585,7 +34587,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 229,
+      lineNumber: 231,
       columnNumber: 21
     }
   })))), __jsx("form", {
@@ -34593,7 +34595,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 233,
+      lineNumber: 235,
       columnNumber: 15
     }
   }, __jsx("a", {
@@ -34603,7 +34605,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 234,
+      lineNumber: 236,
       columnNumber: 17
     }
   }, t("接入文档"))))))), __jsx("div", {
@@ -34612,7 +34614,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 248,
+      lineNumber: 250,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -34620,7 +34622,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 249,
+      lineNumber: 251,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -34628,7 +34630,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 250,
+      lineNumber: 252,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -34636,7 +34638,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 251,
+      lineNumber: 253,
       columnNumber: 13
     }
   }, __jsx("span", {
@@ -34644,7 +34646,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 252,
+      lineNumber: 254,
       columnNumber: 15
     }
   }, t("低门槛接入虚拟资产互通的应用生态")), __jsx("h1", {
@@ -34652,7 +34654,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 255,
+      lineNumber: 257,
       columnNumber: 15
     }
   }, "THE OASIS - ", t("NFT资产跨应用互通")), __jsx("a", {
@@ -34661,7 +34663,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 258,
+      lineNumber: 260,
       columnNumber: 15
     }
   }, t("快速入门"), __jsx("em", {
@@ -34672,7 +34674,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 263,
+      lineNumber: 265,
       columnNumber: 17
     }
   }))), __jsx("div", {
@@ -34680,7 +34682,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 271,
+      lineNumber: 273,
       columnNumber: 13
     }
   }, __jsx(react_particles_js__WEBPACK_IMPORTED_MODULE_2___default.a, {
@@ -34689,7 +34691,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 272,
+      lineNumber: 274,
       columnNumber: 15
     }
   }))))), __jsx("div", {
@@ -34697,7 +34699,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 279,
+      lineNumber: 281,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -34705,7 +34707,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 280,
+      lineNumber: 282,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -34713,7 +34715,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 281,
+      lineNumber: 283,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -34721,14 +34723,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 282,
+      lineNumber: 284,
       columnNumber: 13
     }
   }, __jsx("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 283,
+      lineNumber: 285,
       columnNumber: 15
     }
   }, t("THE OASIS协议是一套基于区块链的协议与工具套件。它实现了基于NFT（非同质化通证）的虚拟资产在不同合约间的转移与复用，并提供了封装优良的资产复用、解析工具包"))), __jsx("div", {
@@ -34736,7 +34738,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 289,
+      lineNumber: 291,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -34744,7 +34746,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 290,
+      lineNumber: 292,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -34752,7 +34754,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 291,
+      lineNumber: 293,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -34760,14 +34762,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 292,
+      lineNumber: 294,
       columnNumber: 19
     }
   }, __jsx("h2", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 293,
+      lineNumber: 295,
       columnNumber: 21
     }
   }, t("现已支持")))), __jsx("div", {
@@ -34775,7 +34777,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 296,
+      lineNumber: 298,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -34783,7 +34785,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 300,
+      lineNumber: 302,
       columnNumber: 19
     }
   }, __jsx("img", {
@@ -34792,7 +34794,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 301,
+      lineNumber: 303,
       columnNumber: 21
     }
   })))))))), __jsx("div", {
@@ -34800,7 +34802,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 311,
+      lineNumber: 313,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -34808,7 +34810,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 312,
+      lineNumber: 314,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -34816,7 +34818,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 313,
+      lineNumber: 315,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -34824,7 +34826,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 314,
+      lineNumber: 316,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -34832,7 +34834,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 315,
+      lineNumber: 317,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -34840,7 +34842,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 316,
+      lineNumber: 318,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -34848,7 +34850,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 317,
+      lineNumber: 319,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -34856,7 +34858,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 318,
+      lineNumber: 320,
       columnNumber: 21
     }
   }, __jsx("i", {
@@ -34864,14 +34866,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 319,
+      lineNumber: 321,
       columnNumber: 23
     }
   }))), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 322,
+      lineNumber: 324,
       columnNumber: 19
     }
   }, t("通用资产标准")), __jsx(react_i18next__WEBPACK_IMPORTED_MODULE_4__["Trans"], {
@@ -34879,7 +34881,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 323,
+      lineNumber: 325,
       columnNumber: 19
     }
   }, __jsx("p", {
@@ -34887,14 +34889,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 324,
+      lineNumber: 326,
       columnNumber: 21
     }
   }, "THE OASIS\u5236\u5B9A\u4E86\u5177\u5907\u53EF\u6269\u5C55\u6027\u826F\u597D\u7684", __jsx("strong", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 325,
+      lineNumber: 327,
       columnNumber: 44
     }
   }, "FT/NFT"), "\u6807\u51C6\u63A5\u53E3\uFF0C\u5E76\u63D0\u4F9B\u5B8C\u5584\u7684\u5408\u7EA6\u6A21\u677F"))), __jsx("div", {
@@ -34902,7 +34904,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 330,
+      lineNumber: 332,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -34910,7 +34912,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 331,
+      lineNumber: 333,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -34918,7 +34920,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 332,
+      lineNumber: 334,
       columnNumber: 21
     }
   }, __jsx("i", {
@@ -34926,14 +34928,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 333,
+      lineNumber: 335,
       columnNumber: 23
     }
   }))), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 336,
+      lineNumber: 338,
       columnNumber: 19
     }
   }, t("跨合约NFT转移")), __jsx("p", {
@@ -34941,7 +34943,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 337,
+      lineNumber: 339,
       columnNumber: 19
     }
   }, t("THE OASIS实现了安全、原子的跨合约NFT转移，帮助您的资产穿梭在各种应用的合约层"))), __jsx("div", {
@@ -34949,7 +34951,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 343,
+      lineNumber: 345,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -34957,7 +34959,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 344,
+      lineNumber: 346,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -34965,7 +34967,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 345,
+      lineNumber: 347,
       columnNumber: 21
     }
   }, __jsx("i", {
@@ -34973,14 +34975,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 346,
+      lineNumber: 348,
       columnNumber: 23
     }
   }))), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 349,
+      lineNumber: 351,
       columnNumber: 19
     }
   }, t("定制化资产映射")), __jsx("p", {
@@ -34988,7 +34990,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 350,
+      lineNumber: 352,
       columnNumber: 19
     }
   }, t("您可以自由定制外来NFT在合约内的映射目标资产，以实现更灵活的资产复用"))), __jsx("div", {
@@ -34996,7 +34998,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 356,
+      lineNumber: 358,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -35004,7 +35006,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 357,
+      lineNumber: 359,
       columnNumber: 19
     }
   }, __jsx("div", {
@@ -35012,7 +35014,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 358,
+      lineNumber: 360,
       columnNumber: 21
     }
   }, __jsx("i", {
@@ -35020,14 +35022,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 359,
+      lineNumber: 361,
       columnNumber: 23
     }
   }))), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 362,
+      lineNumber: 364,
       columnNumber: 19
     }
   }, t("密码学安全")), __jsx("ul", {
@@ -35035,28 +35037,28 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 363,
+      lineNumber: 365,
       columnNumber: 19
     }
   }, __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 364,
+      lineNumber: 366,
       columnNumber: 21
     }
   }, t("数字签名保障资产完整性，防止篡改资产")), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 365,
+      lineNumber: 367,
       columnNumber: 21
     }
   }, t("中转合约记录资产位置，防止伪造资产")), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 366,
+      lineNumber: 368,
       columnNumber: 21
     }
   }, t("全生命周期追踪"))))))))), __jsx("div", {
@@ -35064,7 +35066,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 375,
+      lineNumber: 377,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -35072,7 +35074,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 376,
+      lineNumber: 378,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -35080,7 +35082,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 377,
+      lineNumber: 379,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -35088,14 +35090,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 378,
+      lineNumber: 380,
       columnNumber: 13
     }
   }, __jsx("h2", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 379,
+      lineNumber: 381,
       columnNumber: 15
     }
   }, t("为什么要接入THE OASIS")))), __jsx("div", {
@@ -35103,7 +35105,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 382,
+      lineNumber: 384,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -35111,7 +35113,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 383,
+      lineNumber: 385,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -35119,7 +35121,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 384,
+      lineNumber: 386,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -35127,7 +35129,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 385,
+      lineNumber: 387,
       columnNumber: 17
     }
   }, __jsx("i", {
@@ -35135,14 +35137,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 386,
+      lineNumber: 388,
       columnNumber: 19
     }
   }))), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 389,
+      lineNumber: 391,
       columnNumber: 15
     }
   }, t("快速冷启动")), __jsx("p", {
@@ -35150,7 +35152,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 390,
+      lineNumber: 392,
       columnNumber: 15
     }
   }, t("复用已有应用的资产，快速吸引流量，加速应用冷启动"))), __jsx("div", {
@@ -35158,7 +35160,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 394,
+      lineNumber: 396,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -35166,7 +35168,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 395,
+      lineNumber: 397,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -35174,7 +35176,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 396,
+      lineNumber: 398,
       columnNumber: 17
     }
   }, __jsx("i", {
@@ -35182,14 +35184,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 397,
+      lineNumber: 399,
       columnNumber: 19
     }
   }))), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 400,
+      lineNumber: 402,
       columnNumber: 15
     }
   }, t("刺激消费")), __jsx("ul", {
@@ -35197,21 +35199,21 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 401,
+      lineNumber: 403,
       columnNumber: 15
     }
   }, __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 402,
+      lineNumber: 404,
       columnNumber: 17
     }
   }, t("迫使玩家重复消费道具的时代即将过去")), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 403,
+      lineNumber: 405,
       columnNumber: 17
     }
   }, t("复用性强，使用场景更丰富的资产更容易受到玩家青睐")))), __jsx("div", {
@@ -35219,7 +35221,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 406,
+      lineNumber: 408,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -35227,7 +35229,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 407,
+      lineNumber: 409,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -35235,7 +35237,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 408,
+      lineNumber: 410,
       columnNumber: 17
     }
   }, __jsx("i", {
@@ -35243,14 +35245,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 409,
+      lineNumber: 411,
       columnNumber: 19
     }
   }))), __jsx("h5", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 412,
+      lineNumber: 414,
       columnNumber: 15
     }
   }, t("跨应用联合玩法")), __jsx("p", {
@@ -35258,7 +35260,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 413,
+      lineNumber: 415,
       columnNumber: 15
     }
   }, t("带着CryptoKitties的宠物猫游览Decentraland的虚拟世界")))))), __jsx("div", {
@@ -35267,7 +35269,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 422,
+      lineNumber: 424,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -35275,7 +35277,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 423,
+      lineNumber: 425,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -35283,7 +35285,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 424,
+      lineNumber: 426,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -35291,14 +35293,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 425,
+      lineNumber: 427,
       columnNumber: 13
     }
   }, __jsx("h2", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 426,
+      lineNumber: 428,
       columnNumber: 15
     }
   }, t("已接入的Dapp")))), __jsx("div", {
@@ -35306,7 +35308,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 429,
+      lineNumber: 431,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -35314,7 +35316,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 430,
+      lineNumber: 432,
       columnNumber: 13
     }
   }, __jsx("a", {
@@ -35323,7 +35325,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 431,
+      lineNumber: 433,
       columnNumber: 15
     }
   }, __jsx("img", {
@@ -35332,7 +35334,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 432,
+      lineNumber: 434,
       columnNumber: 17
     }
   }))), __jsx("div", {
@@ -35340,7 +35342,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 435,
+      lineNumber: 437,
       columnNumber: 13
     }
   }, __jsx("img", {
@@ -35349,14 +35351,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 436,
+      lineNumber: 438,
       columnNumber: 15
     }
   }))))), __jsx("div", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 441,
+      lineNumber: 443,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -35364,7 +35366,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 443,
+      lineNumber: 445,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -35373,7 +35375,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 444,
+      lineNumber: 446,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -35381,14 +35383,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 445,
+      lineNumber: 447,
       columnNumber: 13
     }
   }, __jsx("h2", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 446,
+      lineNumber: 448,
       columnNumber: 15
     }
   }, "FAQ"))), __jsx("div", {
@@ -35396,7 +35398,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 449,
+      lineNumber: 451,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -35404,7 +35406,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 450,
+      lineNumber: 452,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -35412,7 +35414,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 451,
+      lineNumber: 453,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -35420,14 +35422,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 452,
+      lineNumber: 454,
       columnNumber: 17
     }
   }, __jsx("h6", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 453,
+      lineNumber: 455,
       columnNumber: 19
     }
   }, t("跨应用资产转移需要收费吗？")), __jsx("p", {
@@ -35435,7 +35437,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 454,
+      lineNumber: 456,
       columnNumber: 19
     }
   }, t("在合约执行层面只收取区块链交易的手续费，无其他任何费用。应用方也可以在上层构建灵活的付费方案，以拓展更多商业模式。"))), __jsx("div", {
@@ -35443,14 +35445,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 460,
+      lineNumber: 462,
       columnNumber: 17
     }
   }, __jsx("h6", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 461,
+      lineNumber: 463,
       columnNumber: 19
     }
   }, t("资产转移后会出现丢失情况吗？")), __jsx("p", {
@@ -35458,7 +35460,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 462,
+      lineNumber: 464,
       columnNumber: 19
     }
   }, t("资产只在合约有安全漏洞或其他Bug的情况下可能会出现丢失。我们建议用户在审查目标应用的安全性并充分信任后，再进行资产转移的操作。"))), __jsx("div", {
@@ -35466,14 +35468,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 468,
+      lineNumber: 470,
       columnNumber: 17
     }
   }, __jsx("h6", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 469,
+      lineNumber: 471,
       columnNumber: 19
     }
   }, t("合作方单方面退出生态，资产是否会受影响？")), __jsx("p", {
@@ -35481,7 +35483,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 470,
+      lineNumber: 472,
       columnNumber: 19
     }
   }, t("在合作方合约符合THE OASIS协议标准的情况下，任何资产在任何时候都可以转移回它最初的发行合约。"))), __jsx("div", {
@@ -35489,14 +35491,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 476,
+      lineNumber: 478,
       columnNumber: 17
     }
   }, __jsx("h6", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 477,
+      lineNumber: 479,
       columnNumber: 19
     }
   }, t("接入协议后会对资产做什么限制？")), __jsx("p", {
@@ -35504,7 +35506,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 478,
+      lineNumber: 480,
       columnNumber: 19
     }
   }, t("协议仅对必要的数据字段做了标准化，其它任何操作均无限制，可由应用方自由扩展。")))))))), __jsx("div", {
@@ -35513,7 +35515,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 491,
+      lineNumber: 493,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -35521,7 +35523,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 492,
+      lineNumber: 494,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -35529,7 +35531,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 493,
+      lineNumber: 495,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -35537,7 +35539,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 494,
+      lineNumber: 496,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -35545,7 +35547,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 495,
+      lineNumber: 497,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -35553,7 +35555,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 496,
+      lineNumber: 498,
       columnNumber: 17
     }
   }, __jsx("div", {
@@ -35561,14 +35563,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 497,
+      lineNumber: 499,
       columnNumber: 19
     }
   }, __jsx("h4", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 498,
+      lineNumber: 500,
       columnNumber: 21
     }
   }, t("想与更多开发者、应用方交流？")), __jsx("span", {
@@ -35576,7 +35578,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 499,
+      lineNumber: 501,
       columnNumber: 21
     }
   }, t("好的灵感总是在交流的过程中产生"))), __jsx("a", {
@@ -35584,7 +35586,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 503,
+      lineNumber: 505,
       columnNumber: 19
     }
   }, __jsx("button", {
@@ -35592,7 +35594,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 504,
+      lineNumber: 506,
       columnNumber: 21
     }
   }, t("加入社区"))))))))), __jsx("div", {
@@ -35601,7 +35603,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 516,
+      lineNumber: 518,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -35609,7 +35611,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 517,
+      lineNumber: 519,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -35617,7 +35619,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 518,
+      lineNumber: 520,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -35625,7 +35627,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 519,
+      lineNumber: 521,
       columnNumber: 13
     }
   }, __jsx("h1", {
@@ -35633,7 +35635,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 520,
+      lineNumber: 522,
       columnNumber: 15
     }
   }, t("申请测试")), __jsx("p", {
@@ -35641,24 +35643,24 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 521,
+      lineNumber: 523,
       columnNumber: 15
     }
   }, t("请通过邮件与我们取得联系")), __jsx("a", {
     className: "lead text-light",
-    href: "mailto:the-oasis@byterum.com",
+    href: "mailto:contact@byterum.com",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 522,
+      lineNumber: 524,
       columnNumber: 15
     }
-  }, "the-oasis@byterum.com"))))), __jsx("footer", {
+  }, "contact@byterum.com"))))), __jsx("footer", {
     className: "py-6",
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 534,
+      lineNumber: 533,
       columnNumber: 7
     }
   }, __jsx("div", {
@@ -35666,7 +35668,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 535,
+      lineNumber: 534,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -35674,7 +35676,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 536,
+      lineNumber: 535,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -35682,14 +35684,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 537,
+      lineNumber: 536,
       columnNumber: 13
     }
   }, __jsx("h6", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 538,
+      lineNumber: 537,
       columnNumber: 15
     }
   }, t("关于链坊")), __jsx(react_i18next__WEBPACK_IMPORTED_MODULE_4__["Trans"], {
@@ -35698,7 +35700,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 539,
+      lineNumber: 538,
       columnNumber: 15
     }
   }, "\u94FE\u574A\u662F\u4E00\u5BB6\u4E13\u6CE8\u4E8E\u533A\u5757\u94FE\u6280\u672F\u7814\u53D1\u7684\u521B\u65B0\u79D1\u6280\u516C\u53F8\u3002\u6211\u4EEC\u81F4\u529B\u4E8E\u5C06\u533A\u5757\u94FE\u6280\u672F\u4E0E\u6E38\u620F\u3001\u6587\u5B66\u3001\u827A\u672F\u7B49\u6587\u521B\u9886\u57DF\u4EA7\u54C1\u7ED3\u5408\uFF0C\u63A8\u5E7F\u901A\u8BC1\u7ECF\u6D4E\uFF0C\u964D\u4F4E\u4EA4\u6613\u6469\u64E6\u6210\u672C\uFF0C\u6700\u5927\u5316\u4FDD\u969C\u7528\u6237\u7684\u5229\u76CA\u3002"), __jsx("ul", {
@@ -35706,7 +35708,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 542,
+      lineNumber: 541,
       columnNumber: 15
     }
   }, __jsx("li", {
@@ -35714,7 +35716,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 543,
+      lineNumber: 542,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35722,7 +35724,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 544,
+      lineNumber: 543,
       columnNumber: 19
     }
   }, __jsx("i", {
@@ -35730,7 +35732,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 545,
+      lineNumber: 544,
       columnNumber: 21
     }
   }))), __jsx("li", {
@@ -35738,7 +35740,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 548,
+      lineNumber: 547,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35746,7 +35748,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 549,
+      lineNumber: 548,
       columnNumber: 19
     }
   }, __jsx("i", {
@@ -35754,7 +35756,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 550,
+      lineNumber: 549,
       columnNumber: 21
     }
   }))), __jsx("li", {
@@ -35762,7 +35764,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 553,
+      lineNumber: 552,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35770,7 +35772,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 554,
+      lineNumber: 553,
       columnNumber: 19
     }
   }, __jsx("i", {
@@ -35778,7 +35780,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 555,
+      lineNumber: 554,
       columnNumber: 21
     }
   }))), __jsx("li", {
@@ -35786,7 +35788,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 558,
+      lineNumber: 557,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35795,7 +35797,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 559,
+      lineNumber: 558,
       columnNumber: 19
     }
   }, __jsx("i", {
@@ -35803,7 +35805,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 563,
+      lineNumber: 562,
       columnNumber: 21
     }
   }))))), __jsx("div", {
@@ -35811,14 +35813,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 568,
+      lineNumber: 567,
       columnNumber: 13
     }
   }, __jsx("h6", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 569,
+      lineNumber: 568,
       columnNumber: 15
     }
   }, t("相关资源")), __jsx("ul", {
@@ -35826,14 +35828,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 570,
+      lineNumber: 569,
       columnNumber: 15
     }
   }, __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 571,
+      lineNumber: 570,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35841,14 +35843,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 572,
+      lineNumber: 571,
       columnNumber: 19
     }
   }, t("竹录隐侠"))), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 574,
+      lineNumber: 573,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35856,14 +35858,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 575,
+      lineNumber: 574,
       columnNumber: 19
     }
   }, "EOSIO")), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 577,
+      lineNumber: 576,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35871,7 +35873,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 578,
+      lineNumber: 577,
       columnNumber: 19
     }
   }, "DappReview")))), __jsx("div", {
@@ -35879,14 +35881,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 582,
+      lineNumber: 581,
       columnNumber: 13
     }
   }, __jsx("h6", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 583,
+      lineNumber: 582,
       columnNumber: 15
     }
   }, t("社区")), __jsx("ul", {
@@ -35894,14 +35896,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 584,
+      lineNumber: 583,
       columnNumber: 15
     }
   }, __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 585,
+      lineNumber: 584,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35909,14 +35911,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 586,
+      lineNumber: 585,
       columnNumber: 19
     }
   }, "Refer a friend")), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 588,
+      lineNumber: 587,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35924,7 +35926,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 589,
+      lineNumber: 588,
       columnNumber: 19
     }
   }, "Affiliates")))), __jsx("div", {
@@ -35932,14 +35934,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 593,
+      lineNumber: 592,
       columnNumber: 13
     }
   }, __jsx("h6", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 594,
+      lineNumber: 593,
       columnNumber: 15
     }
   }, t("帮助")), __jsx("ul", {
@@ -35947,14 +35949,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 595,
+      lineNumber: 594,
       columnNumber: 15
     }
   }, __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 596,
+      lineNumber: 595,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35963,14 +35965,14 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 597,
+      lineNumber: 596,
       columnNumber: 19
     }
   }, "Github")), __jsx("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 604,
+      lineNumber: 603,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -35978,7 +35980,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 605,
+      lineNumber: 604,
       columnNumber: 19
     }
   }, t("报告Bug")))))), __jsx("div", {
@@ -35986,7 +35988,7 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 610,
+      lineNumber: 609,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -35994,10 +35996,18 @@ function Home() {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 611,
+      lineNumber: 610,
       columnNumber: 13
     }
-  }, "THE OASIS\xA92019-", new Date().getFullYear(), " \u94FE\u574A\u79D1\u6280 Byterum - All Rights Reserved")))), __jsx("div", {
+  }, "THE OASIS\xA92019-", new Date().getFullYear(), " ", __jsx("a", {
+    href: "https://byterum.com",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 612,
+      columnNumber: 15
+    }
+  }, "\u94FE\u574A Byterum"), " - All Rights Reserved")))), __jsx("div", {
     className: "scroll-top",
     __self: this,
     __source: {
@@ -36035,7 +36045,7 @@ function Home() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!**************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Flowesyang%2FDocuments%2Fwebsite%2Fthe-oasis-website%2Fpages%2Findex.js ***!
   \**************************************************************************************************************************************************/
@@ -36058,5 +36068,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
