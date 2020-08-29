@@ -113,16 +113,18 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>THE OASIS - Protocol of Cross-Contract Items Transferring</title>
+        <title>
+          {t("绿洲协议")}- {t("跨合约NFT资产转移")}
+        </title>
         <link rel="icon" href="/favicon.ico" />
         <meta charSet="utf-8" />
         <meta
           name="keywords"
-          content="THE OASIS protocol blockchain NFT crypto asset"
+          content="绿洲协议 资产转移 THE OASIS protocol blockchain NFT crypto asset"
         />
         <meta
           name="description"
-          content="THE OASIS protocl. Bring you to the ecosystem of NFT asset"
+          content="绿洲协议，带您进入NFT资产生态 / THE OASIS protocl. Bring you to the ecosystem of NFT asset"
         />
         <meta name="author" content="byterum" />
         <meta

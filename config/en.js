@@ -1,4 +1,7 @@
 export default {
+  绿洲协议: "THE OASIS",
+  跨合约NFT资产转移:
+    "Protocol of Cross-Contract Non-fungible Token Transferring",
   特性: "Features",
   社区: "Community",
   合作: "Contact",
